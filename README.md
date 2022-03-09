@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<details>
-  <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HexS2&count_private=true&show_icons=true&hide_border=true" />
-</details>-->
+<img align="center" src="https://preview.redd.it/z1cr1uy1onb31.gif?format=mp4&s=7a02810b549cee8285da2ed6aeb176b65924e4b0">
