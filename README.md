@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#[Java](https://docs.oracle.com/javase/8/docs/api/)
-
+<!--<details>
+  <summary>⚡ GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HexS2&count_private=true&show_icons=true&hide_border=true" />
+</details>-->
